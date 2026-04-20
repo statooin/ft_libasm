@@ -21,7 +21,7 @@ This repository contains a collection of fundamental standard library functions 
 
 Maintaining this archive serves as a testament to my expertise in low-level systems engineering—a foundation that is indispensable for modern high-performance computing and infrastructure security.
 
-## The Engineering Foundation (Why this matters for SRE)
+## The Engineering Foundation
 Writing code in Assembly is a brutal but rewarding exercise in precision. For a Senior SRE, this level of depth provides critical advantages:
 
 * **Security & Reverse Engineering:** Understanding how the stack and registers operate is essential for analyzing exploits, identifying buffer overflows, and performing deep-dive security audits.
