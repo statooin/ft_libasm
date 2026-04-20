@@ -17,7 +17,7 @@
 [⚠️STATUS: ARCHIVAL / HISTORICAL REFERENCE]
 
 ## 📜 Overview
-This repository contains a collection of fundamental standard library functions rewritten in **x86-64 Assembly (NASM)**. Developed in 2021 as part of the École 42 curriculum, this project focuses on understanding the Application Binary Interface (ABI), CPU register management, and direct interaction with the Linux kernel via system calls.
+This repository contains a collection of fundamental standard library functions rewritten in **x86-64 Assembly (NASM)**. Developed in 2019 as part of the École 42 curriculum, this project focuses on understanding the Application Binary Interface (ABI), CPU register management, and direct interaction with the Linux kernel via system calls.
 
 Maintaining this archive serves as a testament to my expertise in low-level systems engineering—a foundation that is indispensable for modern high-performance computing and infrastructure security.
 
